@@ -1,5 +1,5 @@
 # My Intro-Web-Dev Homework Repo
-##Aidan Mann
+## Aidan Mann
 
 I have chosen to take this class to improve my tech understanding and skills. This class also adds a very applicable set of skills to my repertoire. I have a background in the arts so this will help me very much!
 -the internet seems much more complex than it is
