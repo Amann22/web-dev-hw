@@ -7,6 +7,8 @@ I have chosen to take this class to improve my tech understanding and skills. Th
 -I was interested in the rapid transformation/improvement that has and still is happening
 
 <hr />
+
 ### My Resources
-<i> HTML & CSS </i>
-<b> Jon Duckett </b>
+
+<**> HTML & CSS </i>
+<****> Jon Duckett </****>
