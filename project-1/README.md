@@ -7,17 +7,13 @@
   renders and displays it. Each uses different interpreters to understand varieties
   of coding languages. They are constantly updating and changing, they all have
   pros and cons depending on what you are looking to do.
-<pre/>
 
-<pre>
   The wayback machine is absolutely incredible, I loved to explore and interact.
   It was very cool to take a look at very popular websites like youtube and mtv,
   but I think the most interesting thing was to view sites like nytimes and other
   news sites. It gave me a glance into not only what the internet was like but
   what was going on in the world arounf those times.
-<pre/>
 
-<pre>
   My work on this project was somewhat sporadic, I am just starting my post-surgery
   recovery and getting back into school. I liked this project alot, it have alot
   of freedom of what we would like to work with but at the same time helped me
