@@ -12,9 +12,11 @@ I have chosen to take this class to improve my tech understanding and skills. Th
 
 <b>HTML & CSS</b>
 <i>Jon Duckett</i>
+
 '''
 What is the course textbook? Use italics for the title. Bold the author's name.
 '''
+
 [Course Website](https://media-ed-online.github.io/intro-web-dev/)
 ![alt img](http://bit.ly/2DIVG46)
 
