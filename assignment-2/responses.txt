@@ -1,4 +1,18 @@
-1. Whatever your data is is first organized in bits-binary. It is then sent through a router on a course to its destination-maybe another IP. There are checks to make sure that the data stays all there in order. This can be sent through multiple routers and through many different servers.
-2. An IP address is basically the address of any computer, this is used to identify it. A DNS is the thing that translates our language, the DNS associates the name of a site with the address so a computer can find it.
-3. A cookie is a small file that is used by your computer as well as websites. This file stores some information about the computer/user that is carried site to site.
-4. There three basic parts of a URL. The first part is called the protocol, this is usually http://. The second part is the domain name, this is used to find the main site-example-www.google.com. The last part is the path and file name, this is the specific path after you are on the site to where you want to be. Example- search/football.html
+1. Whatever your data is is first organized in bits-binary. It is then sent through
+ a router on a course to its destination-maybe another IP. There are checks to make
+ sure that the data stays all there in order. This can be sent through multiple routers
+ and through many different servers.
+
+2. An IP address is basically the address of any computer, this is used to identify
+it. A DNS is the thing that translates our language, the DNS associates the name of
+a site with the address so a computer can find it.
+
+3. A cookie is a small file that is used by your computer as well as websites.
+This file stores some information about the computer/user that is carried site
+to site.
+
+4. There three basic parts of a URL. The first part is called the protocol,
+this is usually http://. The second part is the domain name, this is used to find
+the main site-example-www.google.com. The last part is the path and file name, this
+is the specific path after you are on the site to where you want to be.
+ Example- search/football.html
