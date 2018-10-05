@@ -1,7 +1,7 @@
-# Test Readme
+<h1> Test Readme <h1/>
 
 This is a new line
 
 My [course notes](./notes.txt)
 
-![Image of My Atom Editor](./images/screenshot.png)
+<img src="./images/screenshot.png" />

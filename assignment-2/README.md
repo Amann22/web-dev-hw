@@ -2,7 +2,13 @@
 <h2>README.md</h2>
 
 <p>
-  Git and Github used what is called a version Control System. This is a system that records changes and edits as you work. This allows one to look through changes and progress whenever you want, it also allows the user to go back however far if a mistake is made or the wrong path is taken. With big project such as in this class, a version Control System is perfect because it is never bad to add or make a change because you can always go back and recover what you had.
+  Git and Github used what is called a version Control System. This is a system
+  that records changes and edits as you work. This allows one to look through
+  changes and progress whenever you want, it also allows the user to go back
+  however far if a mistake is made or the wrong path is taken. With big project
+  such as in this class, a version Control System is perfect because it is never
+  bad to add or make a change because you can always go back and recover what you
+  had.
 <p/>
 
 [response](web-dev-hw/assignment-2/responses.txt)
