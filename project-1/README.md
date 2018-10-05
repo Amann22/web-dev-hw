@@ -1,6 +1,6 @@
 <h1>README.md-Project 1 Report<h1/>
 
-<pre><h5>
+<pre><h8>
   I used mainly google chrome.
   All browsers have small differences in code interpretation, interface, rendering,
   and engines. The browser is what takes your or anybodies code from the web
@@ -21,6 +21,6 @@
   takes me time and a higher importance of organization than what I am used to.
   I didn't find the need to post up about any issues ussually I just need more time
   to experiment and use past sites to check my work.
-<h5/><pre/>
+<h8/><pre/>
 
   <img src="./images/proj1ss.png" />
