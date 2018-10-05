@@ -1,3 +1,4 @@
+<p>
 1. Whatever your data is is first organized in bits-binary. It is then sent through
  a router on a course to its destination-maybe another IP. There are checks to make
  sure that the data stays all there in order. This can be sent through multiple routers
@@ -16,5 +17,4 @@ this is usually http://. The second part is the domain name, this is used to fin
 the main site-example-www.google.com. The last part is the path and file name, this
 is the specific path after you are on the site to where you want to be.
  Example- search/football.html
-
- web-dev-hw/assignment-2/readme.md
+<p/>
