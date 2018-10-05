@@ -10,5 +10,6 @@ I have chosen to take this class to improve my tech understanding and skills. Th
 
 ### My Resources
 
-<**> HTML & CSS </i>
-<****> Jon Duckett </****>
+**HTML & CSS
+
+***Jon Duckett
