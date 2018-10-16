@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-      <h2> Assignment-3 Responses </h2>
+      <h2> Assignment-3 Responses <h2/>
 
     <p>The head and body elements in the HTML are very important. Including multiple
     of these can mess up an entire page. This is because these elements are specific
@@ -20,9 +20,6 @@
     Throughout this week I spent more time exploring videos and tutorials while working
     on this assignment. I had some troubles linking locally, still unsure if the Links
     between the contact and index are working. Other than this working through this
-    assignment was smooth.</p>
-
-
-
+    assignment was smooth.<p/>
 
 <img src="./images/assignment-3.jpg" />
