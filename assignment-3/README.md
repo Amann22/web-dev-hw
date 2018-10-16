@@ -1,7 +1,6 @@
 <!DOCTYPE html>
-    <head>
       <h2>Assignment-3 Responses</h2>
-    </head>
+
 <body>
   <p>
     The head and body elements in the HTML are very important. Including multiple
