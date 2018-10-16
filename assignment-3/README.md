@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-      <h2>Assignment-3 Responses</h2>
+      <h2> Assignment-3 Responses </h2>
 
     The head and body elements in the HTML are very important. Including multiple
     of these can mess up an entire page. This is because these elements are specific
@@ -23,12 +23,6 @@
     assignment was smooth.
 
 
-      <img src="./images/assignment-3.jpg" />
 
-<h1> Test Readme <h1/>
 
-This is a new line
-
-My [course notes](./notes.txt)
-
-<img src="./images/screenshot.png" />
+<img src="./images/assignment-3" />
