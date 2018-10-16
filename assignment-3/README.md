@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
       <h2> Assignment-3 Responses <h2/>
 
@@ -9,15 +9,15 @@
     confuse how the code is analysed. The body element is what contains much of
     what the viewer see's, it contains much of the presented information. There is
     an order that the code is read and loaded in and having multiple head or body
-    elements would effect how it is transcribed.
+    elements would effect how it is transcribed.<p/>
 
-    There are two types of markup code that are used and these are semantic and structural
+    <p>There are two types of markup code that are used and these are semantic and structural
     elements. Structural elements are what hold the information about the document
     structure. These elements change the appearence but usually do not hold the main
     information. Semantic elements in code are elements that reinforce the meaning
-    of the information and not just the presentation.
+    of the information and not just the presentation.<p/>
 
-    Throughout this week I spent more time exploring videos and tutorials while working
+    <p>Throughout this week I spent more time exploring videos and tutorials while working
     on this assignment. I had some troubles linking locally, still unsure if the Links
     between the contact and index are working. Other than this working through this
     assignment was smooth.<p/>
