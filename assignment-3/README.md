@@ -10,15 +10,15 @@
     an order that the code is read and loaded in and having multiple head or body
     elements would effect how it is transcribed. <p/>
 
-    <p>There are two types of markup code that are used and these are semantic and structural
+<p> There are two types of markup code that are used and these are semantic and structural
     elements. Structural elements are what hold the information about the document
     structure. These elements change the appearence but usually do not hold the main
     information. Semantic elements in code are elements that reinforce the meaning
-    of the information and not just the presentation.<p/>
+    of the information and not just the presentation. <p/>
 
-    <p>Throughout this week I spent more time exploring videos and tutorials while working
+<p> Throughout this week I spent more time exploring videos and tutorials while working
     on this assignment. I had some troubles linking locally, still unsure if the Links
     between the contact and index are working. Other than this working through this
-    assignment was smooth.<p/>
+    assignment was smooth. <p/>
 
 <img src="./images/assignment-3.jpg" />
