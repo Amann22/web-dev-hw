@@ -1,8 +1,7 @@
 <!DOCTYPE html>
+
       <h2>Assignment-3 Responses</h2>
 
-<body>
-  <p>
     The head and body elements in the HTML are very important. Including multiple
     of these can mess up an entire page. This is because these elements are specific
     in organization of the code. The head contains high level information about
@@ -22,7 +21,14 @@
     on this assignment. I had some troubles linking locally, still unsure if the Links
     between the contact and index are working. Other than this working through this
     assignment was smooth.
-  <p/>
+
 
       <img src="./images/assignment-3.jpg" />
-</body>
+
+<h1> Test Readme <h1/>
+
+This is a new line
+
+My [course notes](./notes.txt)
+
+<img src="./images/screenshot.png" />
