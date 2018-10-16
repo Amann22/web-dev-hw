@@ -25,4 +25,4 @@
 
 
 
-<img src="./images/assignment-3" />
+<img src="./images/assignment-3.jpg" />
