@@ -3,4 +3,4 @@
 <p> Alt text is a required element when sourcing and using images in HTML. This element describes the appearance and function of an image on a page. This can help the visually impaired as well as make code much easier to read and understand.<p/>
 <p>This weeks assignment went well, the way we went about this weeks material made it easy to understand. Week to week each site is looking better and better. One issue that I had this week was with sourcing the video to autoplay on the site. I used the embedded code that is given on youtube and sometimes the video gives and error message.
   <p/>
-  <img src="./images/assignment-4.jpeg" />
+  <img src="./images/assignment-4.jpg" />
