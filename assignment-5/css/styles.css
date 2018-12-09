@@ -11,7 +11,7 @@ div.fixed {
     opacity: 1;
 }
 
-section.normal {
+div.normal {
    width: 600px;height: 100px;
    background-color: rgb(228, 151, 143);
    border-radius: 25px;
@@ -20,7 +20,7 @@ section.normal {
    margin: auto;
 
 }
-section.two {
+div.two {
    width: 600px;height: 100px;
    background-color: rgb(190, 65, 156);
      opacity: .9;
