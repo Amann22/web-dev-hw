@@ -61,7 +61,7 @@ pre::first-letter {
   .button {
   height: 100%;
   background-color: rgb(199, 165, 99);
-  border-color: rgb(142, 102, 52)
+  border-color: rgb(142, 102, 52);
   border-width: medium;
   border-style: solid;
   text-align: center;
